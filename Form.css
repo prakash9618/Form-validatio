@@ -1,0 +1,62 @@
+form {
+    border: 2px solid orangered;
+    width: 900px;
+    margin: auto;
+    padding: 10px;
+    background-color: rgb(161, 183, 241);
+
+}
+
+h2 {
+    text-align: center;
+    font-size: 60px;
+    color: crimson;
+    text-shadow: white 4px 2px 2px;
+
+}
+
+form input {
+    width: 600px;
+    height: 10px;
+    background-color: aquamarine;
+    border: 2px solid white;
+    margin-top: 10px;
+    padding: 30px;
+    border-radius: 5px;
+    font-size: 30px;
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+table label {
+    padding-left: 25px;
+    font-size: 35px;
+    text-shadow: 3px 2px 2px black;
+    color: rgb(247, 243, 22);
+}
+
+button {
+    background-color: green;
+    border: 2px solid white;
+    padding: 20px 40px;
+    border-radius: 5px;
+    margin-left: 250px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    color: white;
+    text-shadow: 3px 2px 2px black;
+    font-size: 20px;
+}
+button:hover {
+    background-color: blueviolet;
+}
+
+#reset {
+    background-color: orange;
+    border: 2px solid white;
+}
+
+#reset:hover {
+    background-color: orangered;
+    border: 2px solid white;
+}
